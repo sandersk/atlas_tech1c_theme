@@ -102,7 +102,7 @@ h1 + p, h2 + p, h3 + P {
 }
 
 p, dd { /* general text styles */
-  font-family: 'SourceHanSansSC-Regular', sans-serif, 'ArialUnicodeMS';
+  font-family: 'SourceHanSansSC-Regular.otf', sans-serif, 'ArialUnicodeMS';
   text-indent: 0.167in;
   font-size: 9.5pt;
   line-height: 13pt;
